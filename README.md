@@ -1,3 +1,8 @@
+## ⚖️ License
+**All Rights Reserved.**
+This project is proprietary. You may view the code for educational or evaluation purposes (such as portfolio review), but you are not permitted to clone, copy, modify, distribute, or use it for any commercial or personal projects without explicit permission.
+
+
 # 🏜️ Oasis Node
 
 An air-gapped, privacy-first local AI ecosystem. Oasis Node integrates a highly customized React dashboard with a FastAPI Python backend, enabling zero-latency local inference of a fine-tuned Qwen 2.5 LLM on consumer hardware.
